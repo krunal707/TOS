@@ -1,0 +1,25 @@
+ฺฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฟ
+ณLet the journey begin                             ณ
+ณSeeting ษออออออออออออออออออออออออออออออออออออออออออออออออออป
+ณFinding บshell->$train                                     บ
+ณFinding บshell->$ps                                        บ
+ณConfigurบState           Active Prio Name                  บ
+ณFinding บ------------------------------------------------  บ
+ณTrain isบZOMBIE                    1 Boot process          บ
+ณWagon isบREADY                     0 Null process          บ
+ณZamboni บRECEIVE_BLOCKED           6 Timer process         บ
+ณStartingบINTR_BLOCKED              7 Timer notifier        บ
+ณ        บRECEIVE_BLOCKED           6 COM process           บ
+ณ        บRECEIVE_BLOCKED           7 COM reader            บ
+ณ        บREADY                     6 Window Manager        บ
+ณ        บRECEIVE_BLOCKED           6 Keyboard Process      บ
+ณ        บINTR_BLOCKED              7 Keyboard Notifier     บ
+ณ        บREADY           *         6 Shell Process         บ
+ณ        บZOMBIE                    5 trainProcess          บ
+ภฤฤฤฤฤฤฤฤบ                                                  บ
+         บshell->$Ü                                         บ
+         ศออออออออออออออออออออออออออออออออออออออออออออออออออผ
+
+
+
+
